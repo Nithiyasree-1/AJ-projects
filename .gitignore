@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.venv
+bin/
+include/
+lib/
+share/
+pyvenv.cfg
+pipeline_output.txt
+check_metrics.py
+*.png
+anemia.csv
